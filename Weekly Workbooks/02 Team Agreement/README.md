@@ -2,6 +2,10 @@
 
 ## Instructions for completing the TEAM-AGREEMENT.md document
 
+The TEAM-AGREEMENT.md document is an 8-part structured agreement for team working, based on a combination of practices observed in industry. It is designed to surface your team's working styles and roles, communication and meeting strategy, how decisions get made, what counts as finished work and how the client will be managed. It also serves as an agreed process manual for handling engagement and re-engagement when a team member is struggling or fails to complete work, what the process is if the team gains or loses a member, and a short risk register. 
+
+The TEAM-AGREEMENT.md is jointly constructed and revised, with a signed commitment from every member recorded through Github.
+
 ### Why you are doing this
 
 Real world industry teams write documents like this. Scrum teams call them "working agreements". Some companies refer to them as "team charters" or "ways of working".
@@ -16,7 +20,9 @@ This document also protects you later. When a problem happens, you follow a plan
 
 ### Rules for this task
 
-- All team members must write this together. An agreement document written by one person is not fit for purpose.
+You task is to construct a this document, following the template provided. The document should be written in Markdown.
+
+- All team members must write this document together. An agreement document written by one person is not fit for purpose.
 - Eliminate all waffle. The final document must be a maximum of 2 sides of A4 when printed at 11pt.
 - You must be exact. "We will communicate well" is meaningless. "We reply on Teams within 24 hours, Monday to Friday" shows actual commitment.
 - **You should review and update this document throughout the project**. Review it at each retrospective. Record each change - it will be referred to in your Viva.
@@ -100,3 +106,24 @@ Finally, add:
 - The signature of every member.
 
 **This is a living document** You will need to review it. Many ideas will not survive first contact with reality - this is both expected and perfectly acceptable.
+
+## Background and supporting materials
+
+The contents of the TEAM-AGREEMENT.md document incorporates various ideas and processes from team formation and management strategy in industry. Here are some background materials for you to explore as you construct your agreement:
+
+* **Working Agreement.** Atlassian’s Team Playbook. [https://www.atlassian.com/team-playbook/plays/working-agreements](https://www.atlassian.com/team-playbook/plays/working-agreements)
+* **Personal User Manual (AKA personal README).** Atlassian’s Team Playbook. [https://www.atlassian.com/team-playbook/plays/my-user-manual](https://www.atlassian.com/team-playbook/plays/my-user-manual)
+* **Handbook-First Approach to Communication (single source of truth).** The GitLab Handbook. [https://handbook.gitlab.com/handbook/company/culture/all-remote/handbook-first/](https://handbook.gitlab.com/handbook/company/culture/all-remote/handbook-first/)
+* **DACI (Driver, Approver, Contributors, Informed).** Intuit. See [https://www.atlassian.com/team-playbook/plays/daci](https://www.atlassian.com/team-playbook/plays/daci)
+* **Disagree and Commit.** Amazon. [https://www.aboutamazon.com/about-us/leadership-principles](https://www.aboutamazon.com/about-us/leadership-principles)
+* **Scrum Values (Commitment, Focus, Openness, Respect, Courage).** Scrum 2020 Guide. [https://scrumguides.org/scrum-guide.html](https://scrumguides.org/scrum-guide.html)
+* **Definition of Done.** Scrum. [https://scrumguides.org/scrum-guide.html](https://scrumguides.org/scrum-guide.html)
+* **Retrospective.** Scrum. [https://scrumguides.org/scrum-guide.html](https://scrumguides.org/scrum-guide.html)
+* **Escalation Policy:** PagerDuty. [https://response.pagerduty.com/](https://response.pagerduty.com/)
+* **Blameless Postmortem / Learning from Failure.** Google. [https://sre.google/sre-book/postmortem-culture/](https://sre.google/sre-book/postmortem-culture/)
+* **Understanding Team Effectiveness.** Google. [https://rework.withgoogle.com/intl/en/guides/understand-team-effectiveness](https://rework.withgoogle.com/intl/en/guides/understand-team-effectiveness)
+* **Onboarding Buddy.** GitLab. [https://handbook.gitlab.com/handbook/people-group/general-onboarding/onboarding-buddies/](https://handbook.gitlab.com/handbook/people-group/general-onboarding/onboarding-buddies/)
+* **Async-first Communication.** Mural. [https://www.mural.co/blog/async-first-culture](https://www.mural.co/blog/async-first-culture)
+* **Andon cord.** Toyota. [https://itrevolution.com/articles/kata/](https://itrevolution.com/articles/kata/)
+* **Squad Health Check.** Spotify. [https://engineering.atspotify.com/2014/09/squad-health-check-model](https://engineering.atspotify.com/2014/09/squad-health-check-model)
+* **Project Aristotle** Google. [https://psychsafety.com/googles-project-aristotle/](https://psychsafety.com/googles-project-aristotle/)
